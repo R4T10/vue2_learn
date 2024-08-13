@@ -4,6 +4,7 @@ import HomeView from '../views/HomeView.vue'
 import Me from '@/views/Me.vue'
 import GradeView from "@/views/GradeView.vue"
 import ToolBar from "@/views/Toolbar.vue"
+import Apicon from '@/views/Apicon.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -31,6 +32,11 @@ const routes = [
         name: 'grade',
         component: GradeView
       },
+      {
+        path:'/apicon',
+        name: 'apicon',
+        component:Apicon
+      }
     ]
   },
   {
