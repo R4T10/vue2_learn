@@ -303,25 +303,6 @@
               <v-img
                 width="300"
                 height="200"
-                src="https://a.pinatafarm.com/620x413/43fdfd01e2/girl-running.jpg"
-              />
-              <v-card-title
-                class="montserrat-regular"
-                style="font-weight: 700"
-                primary-title
-                >DOING EXERCISE</v-card-title
-              >
-              <v-card-text
-                >When I'm free, I also do exercise like jogging, tennis,
-                badminton, or boxing for about 30-45 minutes.</v-card-text
-              >
-            </v-card>
-          </v-col>
-          <v-col cols="auto" class="d-flex justify-center mx-4">
-            <v-card width="300">
-              <v-img
-                width="300"
-                height="200"
                 src="https://i.kym-cdn.com/photos/images/original/002/428/453/2c1.jpg"
               />
               <v-card-title
